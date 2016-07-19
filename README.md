@@ -23,11 +23,17 @@ In a text file `assignment1.txt`, answer the following questions:
 
 2.  Are the following errors compile time errors or runtime errors? Explain the difference. 
 
-    ```c
-    int main() {  
-        float x = 41.5;  
-        printf("The value of x is %d", x);  
-    }  
+    a.
+    ```
+      int x = 2
+    ```
+    b.
+    ```
+      float 1num = 3.0;
+    ```
+    c. 
+    ```
+      double num  = 4.0 / 0.0;
     ```
 3. What, if anything, is wrong with the following code?
 
