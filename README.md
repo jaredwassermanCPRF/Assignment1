@@ -21,7 +21,7 @@ In a text file `assignment1.txt`, answer the following questions:
 
 1.  What is a compiler? Explain thoroughly and in your own words. 
 
-2.  Are the following errors compile time errors or runtime errors? Explain the difference. 
+2.  Are the following errors compile time errors or runtime errors? Why? Explain the difference. 
 
     a.
     ```
@@ -41,7 +41,7 @@ In a text file `assignment1.txt`, answer the following questions:
     #include <stdio.h>
     void main() {  
         float x = 41.5;  
-        printf("The value of x is %f", x);
+        printf("The value of x is %d", x);
         Return 0;
     }  
     ```
@@ -49,4 +49,4 @@ In a text file `assignment1.txt`, answer the following questions:
 # Submission Requirements
 Please include your name and a description in a comment at the top of your code files.  Please also include your name at the top of your assignment1.txt file.
 
-All files must be submitted via GitHub by 10:00am 7/20.
+All files must be submitted via GitHub by 10:00am 7/21.
