@@ -1,0 +1,7 @@
+Jared Wasserman
+
+1) A compiler turns the code written in C (or other high level languages) into Assembly code (which is then translated by Assembler into machine code) so it can be executed.
+
+2) Error A is a compilation error because the error occurs when the program is being complied and is due to a syntax error (leaving out the ;). Error B is also a compilation, in this case due to putting a number at the begging of a variable name. Error C is a run time error because the is nothing wrong with the syntax but the task is can not be done (the computer is not able to divide by 0.0).
+
+3) There are three errors with this code. First %d is used when %f has to be used because x is a float not a int. Another issue is that Return is written with a capital R when the method is named with a lowercase r. The last issue is that void is written in front of main() when int should be.
